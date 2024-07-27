@@ -66,10 +66,10 @@ body{
 
 .guage{
     height: 12px;
+    transition: all .3s ease;
 }
 
 .guageWrapper{
     border: 1px solid;
     height: 12px;
 }
-
